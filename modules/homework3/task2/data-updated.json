@@ -1,0 +1,10 @@
+{
+  "name": "Bill",
+  "age": 70,
+  "skills": [
+    "Philanthropy",
+    "Perseverance",
+    "Focus"
+  ],
+  "isBillionaire": true
+}
