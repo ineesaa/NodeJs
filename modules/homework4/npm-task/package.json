@@ -1,0 +1,17 @@
+{
+    "scripts": {
+        "start": "node index.js",
+        "dev": "echo Development mode",
+        "clean": "rm -rf node_modules"
+    },
+    "name": "npm-task",
+    "version": "1.0.0",
+    "main": "index.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "lodash": "^4.17.21"
+    }
+}
